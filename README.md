@@ -1,5 +1,7 @@
 Menu-Maker-by-Qwenta
-Capture d'écran 2023-07-23 160827
+
+![Capture d'écran 2023-07-23 160827](https://github.com/Sally-Glanowski/P4-MenuMaker/assets/129045849/78ad2db1-88c4-4d3e-91a2-2fabacf14453)
+
 
 Objectifs:
 
